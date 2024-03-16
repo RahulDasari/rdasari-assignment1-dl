@@ -1,2 +1,2 @@
 # rdasari-assignment1-dl
-DL assignment 1
+Download the jupyter notebook and run it on your system
